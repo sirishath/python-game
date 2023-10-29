@@ -1,20 +1,7 @@
-'''
-Name(s): Sirisha Thapa and Ben Samuelson 
-CSC 201
-Lab 5
-
-This program plays the game of "Bagels" where the user tries to guess a number.
-After each guess the user is given clues:
-    "fermi" for correct digit in the correct position
-    "pico" for correct digit is the wrong position
-    "bagels" when every digit is incorrect
-When the user guesses the number, the user is asked whether they want to play again.
-
-Did you complete this lab file during the class period (yes or no)? yes
-
-    Document any assistance you get if you complete the lab after the class period:
-
-'''
+''' This is a fun guessing game in which you are supposed to guess a 4-digit number that is being generated.
+If you get femi that means one number is in right position, if u get pico it means right number in wrong position 
+and if u get bagels it means wrong number....
+Enjoy the gameeee'''
 import random
 NUM_DIGITS = 4    # number of digits in the number to be guessed
 
